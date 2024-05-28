@@ -49,7 +49,7 @@ export default function Home() {
                             className="rounded-full w-32 h-32 bg-white overflow-hidden"
                         >
                             <Image
-                                src="/avatar.png"
+                                src="/TestPortfolio/avatar.png"
                                 alt="avatar"
                                 width={200}
                                 height={200}
@@ -109,6 +109,9 @@ export default function Home() {
                         <h1 className="font-karla text-2xl font-bold">Technical skills</h1>
                         <p className="pt-6 max-w-2xl">I love bringing concepts to life through code. Most of my time is spent building products for awesome clients, as well as creating and contributing to open source libraries. I share many of my projects to GitHub.</p>
                         <div className="flex flex-wrap gap-2 pt-5">
+                            <div className="bg-white rounded-lg p-2">
+                                <p className="text-md">ASM</p>
+                            </div>
                             <div className="bg-white rounded-lg p-2">
                                 <p className="text-md">C</p>
                             </div>
