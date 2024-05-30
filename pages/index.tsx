@@ -56,7 +56,7 @@ export default function Home() {
                                 className="rounded-full w-32 h-32 object-cover"
                             />
                         </Link>
-                        <h1 className="text-4xl font-bold mt-5">G&#39;day, I&#39;m Chaika9</h1>
+                        <h1 className="text-4xl font-bold mt-5">G&#39;day, I&#39;m Mathis Chretien (Z523099)</h1>
                         <h3 className="text-lg mt-2">I&#39;m a Software/Game Developer at Rennes, France.</h3>
                         <p className="mt-2 text-gray-600 max-w-2xl">I&#39;m a student at Epitech who is interested in programming and game
                             development. I like to touch a little bit of everything for discover new things and learn
